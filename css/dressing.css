@@ -1,0 +1,89 @@
+/*!
+ * Start Bootstrap - Portfolio Item (https://startbootstrap.com/template-overviews/portfolio-item)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+h2{
+
+	font-family: "Times New Roman",Times,serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.4em;
+    text-transform: none;
+    margin-bottom:  20px;
+}
+
+.sidebar-item,.art-i-like-t{
+    font-family: "Helvetica",arial,sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 1.6em;
+    text-transform: normal;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 12px;
+    font-weight: 700;
+    font-style: italic;
+    line-height: 1.4em;
+    text-transform: none;
+
+}
+ul{
+	margin-left: 0px !important;
+ padding-left: 0px !important;
+}
+li.sidebar-item{
+ list-style-type: none;
+ 
+ }
+
+ p{
+ 	font-family: "Times New Roman",Times,serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.6em;
+    margin: 0 0 1em;
+ }
+
+@media (min-width: 720px)
+.container {
+    max-width: 720px !important;
+}
+
+a#title{
+	color:#484848;
+	text-decoration: none;
+}
+.btm-nav-item{
+
+	font-family: "Times New Roman",Times,serif;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.4em;
+    text-transform: none;
+    margin-bottom:  0px; !important
+}
+a.nav-item{
+	color:black;
+	text-decoration: none;
+}
+a.nav-item:hover{
+	color:#7c73bf;
+	text-decoration: none;
+}
+.news-area{
+	text-align:right !important;
+}
